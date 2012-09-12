@@ -7,9 +7,11 @@ Test
     baz
 
 <pre>
+<code>
     should be in a box
     deep inside a box
     very much
+</code>
 </pre>
 
 ## Bar
